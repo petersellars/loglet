@@ -1,0 +1,13 @@
+{
+  // Always insert spaces instead of a tab character when you press Tab
+  "editor.insertSpaces": true,
+
+  // Set the number of spaces per indentation level
+  "editor.tabSize": 2,
+
+  // Prevent VS Code from auto-detecting indentation and overriding the above settings
+  "editor.detectIndentation": false,
+
+  // Optional: run tasks in Devbox automatically
+  "tasks.shell": "devbox shell"
+}
