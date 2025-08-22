@@ -1,0 +1,46 @@
+name: "Feature Request"
+description: "Suggest a new feature or enhancement"
+labels: ["feat"]
+title: "[feat]: "
+body:
+  - type: textarea
+    id: user-story
+    attributes:
+      label: "User Story"
+      description: "Write the user story in the format: As a [role], I want [feature] so that [benefit]."
+      placeholder: |
+        As a [role], 
+        I want [feature]
+        So that [benefit]."
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "Provide a detailed description of the feature."
+      placeholder: "This feature will enable..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution-notes
+    attributes:
+      label: "Solution Notes"
+      description: "Any notes on how the feature might be implemented."
+      placeholder: "We could add a CLI flag to..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: "Acceptance Criteria (BDD)"
+      description: "Use Given/When/Then format to define acceptance criteria."
+      placeholder: |
+        Given [some context]
+        When [some action is taken]
+        Then [expected outcome]
+    validations:
+      required: true
