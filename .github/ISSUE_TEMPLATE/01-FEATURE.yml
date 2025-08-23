@@ -7,11 +7,11 @@ body:
     id: user-story
     attributes:
       label: "User Story"
-      description: "Write the user story in the format: As a [role], I want [feature] so that [benefit]."
+      description: "Write the user story in the format: As a [role], I want [feature], so that [benefit]."
       placeholder: |
         As a [role], 
-        I want [feature]
-        So that [benefit]."
+        I want [feature],
+        So that [benefit].
     validations:
       required: true
 
@@ -37,10 +37,10 @@ body:
     id: acceptance-criteria
     attributes:
       label: "Acceptance Criteria (BDD)"
-      description: "Use Given/When/Then format to define acceptance criteria."
+      description: "Write acceptance criteria in the format: Given [some context], When [some action is taken], Then [expected outcome]."
       placeholder: |
-        Given [some context]
-        When [some action is taken]
-        Then [expected outcome]
+        Given [some context],
+        When [some action is taken],
+        Then [expected outcome].
     validations:
       required: true
