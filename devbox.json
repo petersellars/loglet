@@ -1,6 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.15.1/.schema/devbox.schema.json",
+  "name": "loglet",
   "packages": [
-    "git@2.50.1"
+    "git@2.50.1",
+    "adrs@0.3.0"
   ]
 }

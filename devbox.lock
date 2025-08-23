@@ -1,6 +1,54 @@
 {
   "lockfile_version": "1",
   "packages": {
+    "adrs@0.3.0": {
+      "last_modified": "2025-07-28T17:09:23Z",
+      "resolved": "github:NixOS/nixpkgs/648f70160c03151bc2121d179291337ad6bc564b#adrs",
+      "source": "devbox-search",
+      "version": "0.3.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/cqi0907426fak9jjqxk90qp5b6qrijjx-adrs-0.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/cqi0907426fak9jjqxk90qp5b6qrijjx-adrs-0.3.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hxiz7ysk3cmvrwckfb84a6jm7k0s1y1r-adrs-0.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hxiz7ysk3cmvrwckfb84a6jm7k0s1y1r-adrs-0.3.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/v4l5vh150z0w1xlxg812dsbsbxb00rly-adrs-0.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/v4l5vh150z0w1xlxg812dsbsbxb00rly-adrs-0.3.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nvxnryh10cls4815a57nc46qk7wvpzh8-adrs-0.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/nvxnryh10cls4815a57nc46qk7wvpzh8-adrs-0.3.0"
+        }
+      }
+    },
     "git@2.50.1": {
       "last_modified": "2025-08-12T09:17:37Z",
       "resolved": "github:NixOS/nixpkgs/372d9eeeafa5b15913201e2b92e8e539ac7c64d1#git",
