@@ -3,6 +3,8 @@
 [![Keep a Changelog](https://img.shields.io/badge/keepachangelog-1.1.0-blue?logo=Keep%20A%20Changelog&logoColor=white&labelColor=%23E05735)
 ](https://keepachangelog.com/)
 
+[![Go Version](https://img.shields.io/badge/go-1.24.5-00ADD8?logo=go&logoColor=white)](https://go.dev/dl/) [![Cobra](https://img.shields.io/badge/cobra-v1.9.1-2e8592?logo=go&logoColor=white)](https://github.com/spf13/cobra)
+
 ---
 
 ## Changelog
