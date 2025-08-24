@@ -9,5 +9,8 @@
   "editor.detectIndentation": false,
 
   // Optional: run tasks in Devbox automatically
-  "tasks.shell": "devbox shell"
+  "tasks.shell": "devbox shell",
+
+  // Optional: configure Makefile support
+  "makefile.configureOnOpen": false
 }

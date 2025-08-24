@@ -1,5 +1,7 @@
 {
   "recommendations": [
-    "jetpack-io.devbox"
+    "jetpack-io.devbox",
+    "golang.Go",
+    "ms-vscode.makefile-tools"
   ]
 }

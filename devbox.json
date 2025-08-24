@@ -3,6 +3,12 @@
   "name": "loglet",
   "packages": [
     "git@2.50.1",
-    "adrs@0.3.0"
-  ]
+    "adrs@0.3.0",
+    "go@1.24.5"
+  ],
+  "env": {
+    "GOPATH": "$HOME/go",
+    "GOBIN": "$GOPATH/bin",
+    "PATH": "$PATH:$GOBIN"
+  }
 }
