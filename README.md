@@ -9,8 +9,21 @@
 
 ## Changelog
 
-All notable changes to this project are documented in the [CHANGELOG.md](./CHANGELOG.md) file.  
+All notable changes to this project are documented in the [CHANGELOG.md](./CHANGELOG.md) file.
+
 This project adheres to [Semantic Versioning](https://semver.org/).
+
+## Contributing
+
+We welcome contributions!
+
+Please read our [Contributing Guide](./CONTRIBUTING.md) to learn how to get started and review our [Architecture & Principles](./ARCHITECTURE.md).
+
+## Architecture
+
+For design goals and architecture details, see [ARCHITECTURE.md](./ARCHITECTURE.md).
+
+Significant architecture decisions are captured in our [Architecture Decision Records](./docs/adr/README.md).
 
 ## Resources
 
