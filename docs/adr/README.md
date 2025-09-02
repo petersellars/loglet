@@ -12,6 +12,7 @@ The list below contains all ADRs, in the order they were introduced.
 
 * [1. Record architecture decisions](0001-record-architecture-decisions.md)
 * [2. Use Cobra Library for Golang CLI](0002-use-cobra-library-for-golang-cli.md)
+* [3. Single Binary, Zero Dependencies CLI](0003-single-binary-zero-dependencies-cli.md)
 
 This index will continue to grow as new ADRs are written and older ones are superseded.
 
