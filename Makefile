@@ -6,3 +6,6 @@ build:
 
 run:
 	go run ./cmd/loglet --help
+
+adr-readme:
+	adrs generate toc -i ./docs/adr/templates/intro.md -o ./docs/adr/templates/outro.md > ./docs/adr/README.md
