@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.15.1/.schema/devbox.schema.json",
   "name": "loglet",
   "packages": [
-    "act@0.2.80",
+    "act@0.2.84",
     "adrs@0.3.0",
     "docker@28.3.3",
     "git@2.50.1",
