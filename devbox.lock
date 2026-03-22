@@ -268,6 +268,54 @@
           "store_path": "/nix/store/bnv5q7irdqhp63620r8svjm2acfg9swl-go-1.26.1"
         }
       }
+    },
+    "gosec@2.24.7": {
+      "last_modified": "2026-03-08T08:02:12Z",
+      "resolved": "github:NixOS/nixpkgs/608d0cadfed240589a7eea422407a547ad626a14#gosec",
+      "source": "devbox-search",
+      "version": "2.24.7",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/mmbxzl3gg4pkxgdnzylapnr65rbr5sin-gosec-2.24.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/mmbxzl3gg4pkxgdnzylapnr65rbr5sin-gosec-2.24.7"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/vzfn7m21qb836pnjzbs3sq6zg8nqqgng-gosec-2.24.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/vzfn7m21qb836pnjzbs3sq6zg8nqqgng-gosec-2.24.7"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/72py3aj5m49pvh30n61wbc0rgrgbyxlw-gosec-2.24.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/72py3aj5m49pvh30n61wbc0rgrgbyxlw-gosec-2.24.7"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dczdbd5h225c76myca6s9w03bmavpj0c-gosec-2.24.7",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/dczdbd5h225c76myca6s9w03bmavpj0c-gosec-2.24.7"
+        }
+      }
     }
   }
 }

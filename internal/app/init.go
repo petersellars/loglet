@@ -9,7 +9,7 @@ import (
 )
 
 func Init(dir string, force bool) error {
-	if err := os.MkdirAll(dir, 0755); err != nil {
+	if err := os.MkdirAll(dir, 0750); err != nil {
 		return err
 	}
 
@@ -29,7 +29,7 @@ func Init(dir string, force bool) error {
 		}
 		target := filepath.Join(dir, path)
 		if d.IsDir() {
-			return os.MkdirAll(target, 0755)
+			return os.MkdirAll(target, 0750)
 		}
 		data, err := fs.ReadFile(embed.Starter, path)
 		if err != nil {
@@ -50,5 +50,5 @@ func writeFile(path string, b []byte, force bool) error {
 			return fmt.Errorf("file %s already exists", path)
 		}
 	}
-	return os.WriteFile(path, b, 0644)
+	return os.WriteFile(path, b, 0600)
 }
