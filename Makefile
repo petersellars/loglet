@@ -12,3 +12,6 @@ build:
 
 run:
 	go run ./cmd/loglet --help
+
+ss:
+	gosec ./...
