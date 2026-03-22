@@ -14,7 +14,7 @@ func Init(dir string, force bool) error {
 	}
 
 	// Write loglet.yaml
-	cfg := []byte("loglet:\n  name: example\ncontentDir: content\nOutputDir: public\n")
+	cfg := []byte("loglet:\n  name: example\ncontentDir: content\noutputDir: public\n")
 	if err := writeFile(filepath.Join(dir, "loglet.yaml"), cfg, force); err != nil {
 		return err
 	}
