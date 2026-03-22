@@ -12,5 +12,6 @@ This changelog is intended for humans, not machines. Every version of the projec
 ### Added
 
 - Initial `loglet` CLI, with default `--help` support.
+- `init` command, with `--dir` and `--force` flags implemented.
 
-[unreleased]: https://github.com/petersellars/loglet/compare/main...HEAD
+[unreleased]: https://github.com/petersellars/loglet/compare/main...HEADeb
