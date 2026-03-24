@@ -7,7 +7,7 @@
     "docker@29.3.0",
     "git@2.53.0",
     "go@1.26.1",
-    "gosec@2.24.7"
+    "gosec@2.25.0"
   ],
   "env": {
     "GOPATH": "$HOME/go",
