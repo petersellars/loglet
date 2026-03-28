@@ -1,4 +1,4 @@
-.PHONY: act-build adr-readme build run
+.PHONY: act-build adr-readme build run ss
 .DEFAULT_GOAL := run
 
 act-build:
