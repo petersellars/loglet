@@ -97,51 +97,51 @@
         }
       }
     },
-    "docker@29.4.2": {
-      "last_modified": "2026-05-06T12:40:13Z",
-      "resolved": "github:NixOS/nixpkgs/07800bee2b362f6c73fe17cb1593a260c5e183c6#docker",
+    "docker@29.4.3": {
+      "last_modified": "2026-05-14T12:36:40Z",
+      "resolved": "github:NixOS/nixpkgs/27198194e52129ccd8e845e7d5911911e7fea7d7#docker",
       "source": "devbox-search",
-      "version": "29.4.2",
+      "version": "29.4.3",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/zyrjxrflxlsf76cd885plj1a6q7hxxjr-docker-29.4.2",
+              "path": "/nix/store/wk6b67rzj4bkl2miwjnyjn52yfyfqizy-docker-29.4.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/zyrjxrflxlsf76cd885plj1a6q7hxxjr-docker-29.4.2"
+          "store_path": "/nix/store/wk6b67rzj4bkl2miwjnyjn52yfyfqizy-docker-29.4.3"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/cz6qj32ia66ryrzyrd6i08llm7spmpn9-docker-29.4.2",
+              "path": "/nix/store/30rx8gh5g651hr8v8l070ffiav63f155-docker-29.4.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/cz6qj32ia66ryrzyrd6i08llm7spmpn9-docker-29.4.2"
+          "store_path": "/nix/store/30rx8gh5g651hr8v8l070ffiav63f155-docker-29.4.3"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/rp55azlm0yc89v1k6pnalhf78jjmqsd1-docker-29.4.2",
+              "path": "/nix/store/34jad8q1a14m26wmlz4pwr7svf6x5ldz-docker-29.4.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/rp55azlm0yc89v1k6pnalhf78jjmqsd1-docker-29.4.2"
+          "store_path": "/nix/store/34jad8q1a14m26wmlz4pwr7svf6x5ldz-docker-29.4.3"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/vgrhzpg5a77pdf708d3zvrz0w0wa1fs5-docker-29.4.2",
+              "path": "/nix/store/pvhl1xpg8qvdw5cgjwlk3zky14m3vhgb-docker-29.4.3",
               "default": true
             }
           ],
-          "store_path": "/nix/store/vgrhzpg5a77pdf708d3zvrz0w0wa1fs5-docker-29.4.2"
+          "store_path": "/nix/store/pvhl1xpg8qvdw5cgjwlk3zky14m3vhgb-docker-29.4.3"
         }
       }
     },
