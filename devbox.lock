@@ -269,51 +269,51 @@
         }
       }
     },
-    "gosec@2.26.1": {
-      "last_modified": "2026-04-29T01:19:07Z",
-      "resolved": "github:NixOS/nixpkgs/ebc08544afa77957cc348ba72dc490ec73b87f68#gosec",
+    "gosec@2.27.0": {
+      "last_modified": "2026-06-05T19:07:58Z",
+      "resolved": "github:NixOS/nixpkgs/891eaa77f0eed53352194677991bd30978f9b0ad#gosec",
       "source": "devbox-search",
-      "version": "2.26.1",
+      "version": "2.27.0",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/147xml4g2p1bgvvy41392xc8n6z8i6q7-gosec-2.26.1",
+              "path": "/nix/store/yb5hcvb7dk1l7b2vq2y3160ahcwn670q-gosec-2.27.0",
               "default": true
             }
           ],
-          "store_path": "/nix/store/147xml4g2p1bgvvy41392xc8n6z8i6q7-gosec-2.26.1"
+          "store_path": "/nix/store/yb5hcvb7dk1l7b2vq2y3160ahcwn670q-gosec-2.27.0"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/bdq349zcsjkvkifirq4db4x08md3jsrv-gosec-2.26.1",
+              "path": "/nix/store/ql62pav33757mf502x9slz15w75vhlaz-gosec-2.27.0",
               "default": true
             }
           ],
-          "store_path": "/nix/store/bdq349zcsjkvkifirq4db4x08md3jsrv-gosec-2.26.1"
+          "store_path": "/nix/store/ql62pav33757mf502x9slz15w75vhlaz-gosec-2.27.0"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/6fmsm6qzhpsywbakv7qj48lrzidsanap-gosec-2.26.1",
+              "path": "/nix/store/wggjr7mgzrpakl36wq7phb9fzy6hiz7a-gosec-2.27.0",
               "default": true
             }
           ],
-          "store_path": "/nix/store/6fmsm6qzhpsywbakv7qj48lrzidsanap-gosec-2.26.1"
+          "store_path": "/nix/store/wggjr7mgzrpakl36wq7phb9fzy6hiz7a-gosec-2.27.0"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/f2kh6zzwqhx90j6mxji3wvq7pl80chpm-gosec-2.26.1",
+              "path": "/nix/store/z024705rfcnq5magd4f81aaa3szcsv1h-gosec-2.27.0",
               "default": true
             }
           ],
-          "store_path": "/nix/store/f2kh6zzwqhx90j6mxji3wvq7pl80chpm-gosec-2.26.1"
+          "store_path": "/nix/store/z024705rfcnq5magd4f81aaa3szcsv1h-gosec-2.27.0"
         }
       }
     }
