@@ -3,7 +3,7 @@
   "name": "loglet",
   "packages": [
     "act@0.2.89",
-    "adrs@0.7.3",
+    "adrs@0.7.4",
     "docker@29.5.2",
     "git@2.54.0",
     "go@1.26.3",
