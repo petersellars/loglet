@@ -49,51 +49,51 @@
         }
       }
     },
-    "adrs@0.7.6": {
-      "last_modified": "2026-06-16T10:57:20Z",
-      "resolved": "github:NixOS/nixpkgs/3e41b24abd260e8f71dbe2f5737d24122f972158#adrs",
+    "adrs@0.8.0": {
+      "last_modified": "2026-06-27T07:37:20Z",
+      "resolved": "github:NixOS/nixpkgs/3d46470bb3030020f7e1361f33514854f5bfa86d#adrs",
       "source": "devbox-search",
-      "version": "0.7.6",
+      "version": "0.8.0",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/6s14592n1papls29nn5x8ipl5m7b59k1-adrs-0.7.6",
+              "path": "/nix/store/hpf9z7q0vybxj6rvl3w7smi48bqp9fw8-adrs-0.8.0",
               "default": true
             }
           ],
-          "store_path": "/nix/store/6s14592n1papls29nn5x8ipl5m7b59k1-adrs-0.7.6"
+          "store_path": "/nix/store/hpf9z7q0vybxj6rvl3w7smi48bqp9fw8-adrs-0.8.0"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/adhph7njxccz5szwpyjyr5jzwdynsisg-adrs-0.7.6",
+              "path": "/nix/store/66p1hnj0bg0variy00x52xa1an53wnmp-adrs-0.8.0",
               "default": true
             }
           ],
-          "store_path": "/nix/store/adhph7njxccz5szwpyjyr5jzwdynsisg-adrs-0.7.6"
+          "store_path": "/nix/store/66p1hnj0bg0variy00x52xa1an53wnmp-adrs-0.8.0"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/x71z0gsawl464wyp7hisc3xzwydrv29w-adrs-0.7.6",
+              "path": "/nix/store/xrdd6a1dk6kf5q8hp51sipw8jvvqkvg9-adrs-0.8.0",
               "default": true
             }
           ],
-          "store_path": "/nix/store/x71z0gsawl464wyp7hisc3xzwydrv29w-adrs-0.7.6"
+          "store_path": "/nix/store/xrdd6a1dk6kf5q8hp51sipw8jvvqkvg9-adrs-0.8.0"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/cpily1i00n55jjk8l23pldm4dx4jw61r-adrs-0.7.6",
+              "path": "/nix/store/zqyxzhyyd8jgbcapk75s0bqgzal0b86s-adrs-0.8.0",
               "default": true
             }
           ],
-          "store_path": "/nix/store/cpily1i00n55jjk8l23pldm4dx4jw61r-adrs-0.7.6"
+          "store_path": "/nix/store/zqyxzhyyd8jgbcapk75s0bqgzal0b86s-adrs-0.8.0"
         }
       }
     },
