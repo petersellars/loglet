@@ -87,51 +87,41 @@
         }
       }
     },
-    "docker@29.6.1": {
-      "last_modified": "2026-07-05T19:27:47Z",
-      "resolved": "github:NixOS/nixpkgs/f205b5574fd0cb7da5b702a2da51507b7f4fdd1b#docker",
+    "docker@29.6.2": {
+      "last_modified": "2026-07-23T13:11:22Z",
+      "resolved": "github:NixOS/nixpkgs/6d12004108e0e4a5cfa4bd83b14477f040b15773#docker",
       "source": "devbox-search",
-      "version": "29.6.1",
+      "version": "29.6.2",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/lsgj8m747fiz8qsm20axj061p5ikpsii-docker-29.6.1",
+              "path": "/nix/store/xyxq8s9w1p4jj6xxxqad7hgq4a77jlyr-docker-29.6.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/lsgj8m747fiz8qsm20axj061p5ikpsii-docker-29.6.1"
+          "store_path": "/nix/store/xyxq8s9w1p4jj6xxxqad7hgq4a77jlyr-docker-29.6.2"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/n3kqcvl024nykzx5hwpspb7kgnlyib1b-docker-29.6.1",
+              "path": "/nix/store/b513i38jiry74ccdsl7n2nyxl2fk06hv-docker-29.6.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/n3kqcvl024nykzx5hwpspb7kgnlyib1b-docker-29.6.1"
-        },
-        "x86_64-darwin": {
-          "outputs": [
-            {
-              "name": "out",
-              "path": "/nix/store/hq92y29yfclgmd0sb0wpdhy3mhglci97-docker-29.6.1",
-              "default": true
-            }
-          ],
-          "store_path": "/nix/store/hq92y29yfclgmd0sb0wpdhy3mhglci97-docker-29.6.1"
+          "store_path": "/nix/store/b513i38jiry74ccdsl7n2nyxl2fk06hv-docker-29.6.2"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/vfpyx2vplpbk62jcyb9wdpl0jbr9is74-docker-29.6.1",
+              "path": "/nix/store/aibbc1ldkg566hycld6zvr1ifnsyhmk1-docker-29.6.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/vfpyx2vplpbk62jcyb9wdpl0jbr9is74-docker-29.6.1"
+          "store_path": "/nix/store/aibbc1ldkg566hycld6zvr1ifnsyhmk1-docker-29.6.2"
         }
       }
     },
