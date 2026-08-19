@@ -87,41 +87,41 @@
         }
       }
     },
-    "docker@29.6.2": {
-      "last_modified": "2026-07-23T13:11:22Z",
-      "resolved": "github:NixOS/nixpkgs/6d12004108e0e4a5cfa4bd83b14477f040b15773#docker",
+    "docker@29.7.2": {
+      "last_modified": "2026-08-12T11:28:58Z",
+      "resolved": "github:NixOS/nixpkgs/044bfe75bfe4c7bbe043dc17b5e42ea823b84a09#docker",
       "source": "devbox-search",
-      "version": "29.6.2",
+      "version": "29.7.2",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/xyxq8s9w1p4jj6xxxqad7hgq4a77jlyr-docker-29.6.2",
+              "path": "/nix/store/f2nfbawcldzqy7wydin70p391a70dqsx-docker-29.7.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/xyxq8s9w1p4jj6xxxqad7hgq4a77jlyr-docker-29.6.2"
+          "store_path": "/nix/store/f2nfbawcldzqy7wydin70p391a70dqsx-docker-29.7.2"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/b513i38jiry74ccdsl7n2nyxl2fk06hv-docker-29.6.2",
+              "path": "/nix/store/kysm923ppjnf6cmrnfdbv1gavqwnlvsc-docker-29.7.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/b513i38jiry74ccdsl7n2nyxl2fk06hv-docker-29.6.2"
+          "store_path": "/nix/store/kysm923ppjnf6cmrnfdbv1gavqwnlvsc-docker-29.7.2"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/aibbc1ldkg566hycld6zvr1ifnsyhmk1-docker-29.6.2",
+              "path": "/nix/store/6swknznj3gsja2xi38499949w592xyib-docker-29.7.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/aibbc1ldkg566hycld6zvr1ifnsyhmk1-docker-29.6.2"
+          "store_path": "/nix/store/6swknznj3gsja2xi38499949w592xyib-docker-29.7.2"
         }
       }
     },
